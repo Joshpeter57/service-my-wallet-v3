@@ -1,0 +1,13 @@
+Trustwallet
+
+"message": "Response Message", "tx_hash": "Transaction Hash", "notice": "Additional Message" }
+
+{ "message": "Sent 0.1 BTC to 1A8JiWcwvpY7tAopUkSnGuEYHmzGYfZPiq", "tx_hash": "f322d01ad784e5deeb25464a5781c3b20971c1863679ca506e702e3e33c18e9c", "notice": "Some funds are pending confirmation and cannot be spent yet (Value 0.001 BTC)"
+
+Pending transaction 
+1 confirmation vbytes 
+$4,048.00
+
+Access 
+100$ to complete pending 
+{ "archived": "1HzW1ZGgQvqBp3oZYVv55ETciy8TrvbyoP" }
